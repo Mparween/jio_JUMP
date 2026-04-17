@@ -12,5 +12,5 @@ import { Aboutus } from './Pages/aboutus/aboutus';
   styleUrl: './app.scss'
 })
 export class App {
-  protected readonly title = signal('ghghhjghgh');
+  protected readonly title = signal('hello');
 }
