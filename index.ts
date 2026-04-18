@@ -4,6 +4,8 @@ import { RouterLink, RouterOutlet } from '@angular/router';
 import { Login } from './Pages/login/login';
 import { Home } from './Pages/home/home';
 import { Aboutus } from './Pages/aboutus/aboutus';
+import { Aboutus } from './Pages/aboutus/aboutus';
+import { Aboutus } from './Pages/aboutus/aboutus';
 
 @Component({
   selector: 'app-root1',
