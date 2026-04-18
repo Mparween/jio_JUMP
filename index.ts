@@ -11,6 +11,7 @@ import { Aboutus } from './Pages/aboutus/aboutus';
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })
+
 export class App {
-  protected readonly title = signal('fhgfhgfhgfhgfhg');
+  protected readonly title = signal('sasasaas');
 }
