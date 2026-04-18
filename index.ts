@@ -9,6 +9,8 @@ import { Aboutus } from './Pages/aboutus/aboutus';
   selector: 'app-root1',
   imports: [CommonModule, RouterLink, RouterOutlet],
   templateUrl: './app.html',
+  styleUrl: './app.scss',
+  styleUrl: './app.scss'
   styleUrl: './app.scss'
 })
 
