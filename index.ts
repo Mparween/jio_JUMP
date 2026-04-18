@@ -17,4 +17,5 @@ export class App {
   protected readonly title = signal('kjhsjkhskjdhjkshdjhsdjh');
   protected readonly title = signal('kjhsjkhskjdhjkshdjhsdjh');
   protected readonly title = signal('kjhsjkhskjdhjkshdjhsdjh');
+  hghjghjg
 }
